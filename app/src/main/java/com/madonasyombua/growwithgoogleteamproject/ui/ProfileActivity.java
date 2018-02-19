@@ -1,4 +1,4 @@
-package com.madonasyombua.growwithgoogleteamproject;
+package com.madonasyombua.growwithgoogleteamproject.ui;
 
 
 import android.net.Uri;
@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
+import com.madonasyombua.growwithgoogleteamproject.R;
 import com.madonasyombua.growwithgoogleteamproject.ui.fragment.ProfileFragment;
 
 public class ProfileActivity extends AppCompatActivity implements ProfileFragment.OnFragmentInteractionListener{

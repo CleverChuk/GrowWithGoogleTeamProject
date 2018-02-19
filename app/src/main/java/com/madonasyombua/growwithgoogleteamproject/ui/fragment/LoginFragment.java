@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.madonasyombua.growwithgoogleteamproject.ProfileActivity;
+import com.madonasyombua.growwithgoogleteamproject.ui.ProfileActivity;
 import com.madonasyombua.growwithgoogleteamproject.R;
 import com.madonasyombua.growwithgoogleteamproject.databinding.FragmentLoginBinding;
 

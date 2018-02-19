@@ -17,7 +17,6 @@ import com.facebook.internal.CallbackManagerImpl;
 import com.facebook.login.LoginManager;
 import com.facebook.login.LoginResult;
 import com.madonasyombua.growwithgoogleteamproject.Adapter.FragmentsAdapter;
-import com.madonasyombua.growwithgoogleteamproject.ProfileActivity;
 import com.madonasyombua.growwithgoogleteamproject.R;
 import com.madonasyombua.growwithgoogleteamproject.databinding.ActivityLoginBinding;
 import com.madonasyombua.growwithgoogleteamproject.ui.fragment.LoginFragment;
